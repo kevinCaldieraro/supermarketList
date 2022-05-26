@@ -1,0 +1,162 @@
+:root {
+    --blue: #0279FB;
+    --orange: #FEBA17;
+    --grey: #E9E9E9;
+    --colorCard: #F2F2F2;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Poppins, Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: white;
+    font-size: 32px;
+    font-weight: 500;
+}
+
+.main-container {
+    width: 100%;
+    display: flex;
+}
+
+.cadastro {
+    width: 30%;
+    height: 100vh;
+    background-color: var(--blue);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    gap: 20px;
+}
+
+input {
+    width: 50%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+#btnCadastrar {
+    background-color: var(--orange);
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.zona-produtos {
+    width: 70%;
+    height: 100vh;
+    background-color: var(--grey);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.containerProdutos {
+    width: 75%;
+    height: 80%;
+    background-color: var(--orange);
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 15px;
+
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 .3rem .5rem rgba(0, 0, 0, 0.11);
+
+    overflow-y: auto;
+}
+
+.containerProdutos h1 {
+    margin: 18px;
+}
+
+#produtos {
+    width: 90%;
+    height: 18%;
+}
+
+#produtos p{
+    height: 100%;
+    background-color: var(--colorCard);
+    position: relative;
+    margin-bottom: 12px;
+    font-size: 20px;
+    padding: 15px;
+
+    border-left: 6px solid var(--blue);
+    border-radius: 2px;
+
+    box-shadow: 0 .3rem .5rem rgba(0, 0, 0, 0.11);
+}
+
+.spanPrice {
+    position: absolute;
+    left: 15px;
+    bottom: 15px;
+}
+
+.totalSpan {
+    position: absolute;
+    right: 80px;
+    bottom: 15px;
+}
+
+.delete {
+    background-color: var(--colorCard);
+    width: 35px;
+    height: calc(100% - 30px);
+
+    position: absolute;
+    right: 10px;
+    top: 50%;
+
+    transform: translate(0, -50%);
+
+    border: none;
+}
+
+#total {
+    background-color: var(--blue);
+    width: 50%;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+
+    text-align: center;
+
+    padding: 8px;
+    border-radius: 5px;
+    box-shadow: 0 .3rem .5rem rgba(0, 0, 0, 0.11);
+}
+
+#btnLimpar {
+    background-color: var(--blue);
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 .3rem .5rem rgba(0, 0, 0, 0.11);
+}

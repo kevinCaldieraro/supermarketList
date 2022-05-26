@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Compra Fácil</title>
+    <link rel="stylesheet" href="./styles/style.css">
+    <link rel="stylesheet" href="./styles/responsive.css">
+    <link rel="shortcut icon" href="./assets/icoPage.png" type="image/x-icon">
+</head>
+
+<body>
+
+    <main class="main-container">
+        <div class="cadastro">
+            <h1>Cadastre o produto</h1>
+            <input id="nome" type="text" placeholder="Nome do produto">
+            <input id="valor" type="number" placeholder="Valor do produto">
+            <input id="qtd" type="number" placeholder="Número de unidades">
+            <button id="btnCadastrar" onclick="cadastrar()">Cadastrar</button>
+        </div>
+
+        <div class="zona-produtos">
+            <div class="containerProdutos">
+                <h1>Lista de produtos</h1>
+                <div id="produtos"></div>
+            </div>
+            <div id="total">Total da compra: R$0.00</div>
+            <button id="btnLimpar" onclick="limpar()">Limpar</button>
+        </div>
+
+    </main>
+
+    <script src="./scripts/script.js"></script>
+</body>
+
+</html>
