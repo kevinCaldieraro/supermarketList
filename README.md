@@ -2,10 +2,10 @@
 
 ## 📌 Sumário
 <!--ts-->
-   * [Descrição](## 📝 Descrição)
-   * [Status](## 📊 Status)
-   * [Features](## 🛠 Features)
-   * [Demonstração](## 📸 Demonstração)
+   * [Descrição](#-Descrição)
+   * [Status](#-Status)
+   * [Features](#-Features)
+   * [Demonstração](#-Demonstração)
 <!--te-->
 
 ## 📝 Descrição
