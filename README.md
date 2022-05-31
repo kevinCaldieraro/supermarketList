@@ -2,35 +2,50 @@
 
 ## 📌 Sumário
 <!--ts-->
-   * [Descrição](#-Descrição)
-   * [Status](#-Status)
-   * [Features](#-Features)
-   * [Demonstração](#-Demonstração)
+   * [Descrição](#-descrição)
+   * [Objetivo pessoal](#-objetivo-pessoal)
+   * [Status](#-status)
+   * [Features](#-features)
+   * [Demonstração](#-demonstração)
+   * [Contribuições](#-contribuições)
+   * [Autor](#-autor)
 <!--te-->
 
 ## 📝 Descrição
 <p>
-  O projeto é um sistema que o usuário pode cadastrar produtos em uma lista de compras. No cadastro o usuário informa o nome, valor e quantidade do produto que deseja colocar na lista. Depois disso o sistema computa os dados informados no espaço reservado para a lista. O objetivo é ajudar as pessoas a realizarem suas compras no supermercado, então ele faz os cálculos para saber o valor total da compra, fazendo com que o usuário sempre fique informado do valor que irá gastar em sua compra.
+  O projeto (feito com JS, HTML e CSS) é um sistema que o usuário pode cadastrar produtos em uma lista de compras. No cadastro o usuário informa o nome, valor e quantidade do produto que deseja colocar na lista. Depois disso o sistema computa os dados informados no espaço reservado para a lista. O objetivo é ajudar as pessoas a realizarem suas compras no supermercado, então ele faz os cálculos para saber o valor total da compra, fazendo com que o usuário sempre fique informado do valor que irá gastar em sua compra.
+</p>
+
+## 🎯 Objetivo Pessoal
+<p>
+  Minha maior motivação para criar esse projeto foi aprender mais sobre JS e as interações com o HTML.
 </p>
 
 ## 📊 Status
 <p>
-  Finalizado, mas com ideias que gostaria de implementar no futuro.
+  Finalizado, mas com ideias que gostaria de adicionar no futuro, como, por exemplo, implementar  Local Storage.
 </p>
 
 ## 🛠 Features
-- [x] Botão cadastro que pega as informações recebidas do produto e coloca na lista de compras
-- [x] Botão apagar que exclui apenas um item da lista
-- [x] Botão limpar que apaga todos os itens da lista
+- [x] Botão cadastro que pega as informações recebidas do produto e coloca na lista de compras;
+- [x] Botão apagar que exclui apenas um item da lista;
+- [x] Botão limpar que apaga todos os itens da lista.
 
 ## 📸 Demonstração
 <h1 align="center"> <img src="https://github.com/kevinCaldieraro/supermarketList/blob/main/.github/pc_gif.gif"> </h1>
 <h1 align="center"> <img src="https://github.com/kevinCaldieraro/supermarketList/blob/main/.github/mobile_gif.gif"> </h1>
 
-  
-## Readme em construção 🚧
+## 👨‍🔧 Contribuições
+<p>
+  Qualquer contribuição para a melhora do código ou implementação de um novo feature será muito bem recebida, sinta-se livre para ajudar.
+</p>
 
+##
 
+### 🔥 Autor
 
+ <img style="border-radius: 50%;" src="https://github.com/kevinCaldieraro.png" width="100px;" alt="Foto do autor">
+<p>Feito com ❤️ por Kevin Caldieraro.</p>
 
-O intuito foi aprender mais sobre JS, principalmente as interações entre HTML e JS.
+[![Linkedin Badge](https://img.shields.io/badge/-Kevin%20Caldieraro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-caldieraro-667393240/)](https://www.linkedin.com/in/kevin-caldieraro-667393240/) 
+[![Gmail Badge](https://img.shields.io/badge/-kevincaldieraro123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kevincaldieraro123@gmail.com)](mailto:kevincaldieraro123@gmail.com)
