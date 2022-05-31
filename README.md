@@ -13,7 +13,7 @@
 
 ## 📝 Descrição
 <p>
-  O projeto (feito com JS, HTML e CSS) é um sistema que o usuário pode cadastrar produtos em uma lista de compras. No cadastro o usuário informa o nome, valor e quantidade do produto que deseja colocar na lista. Depois disso o sistema computa os dados informados no espaço reservado para a lista. O objetivo é ajudar as pessoas a realizarem suas compras no supermercado, então ele faz os cálculos para saber o valor total da compra, fazendo com que o usuário sempre fique informado do valor que irá gastar em sua compra.
+  O projeto é um sistema que o usuário pode cadastrar produtos em uma lista de compras. No cadastro o usuário informa o nome, valor e quantidade do produto que deseja colocar na lista. Depois disso o sistema computa os dados informados no espaço reservado para a lista. O objetivo é ajudar as pessoas a realizarem suas compras no supermercado, então ele faz os cálculos para saber o valor total da compra, fazendo com que o usuário sempre fique informado do valor que irá gastar em sua compra.
 </p>
 
 ## 🎯 Objetivo Pessoal
