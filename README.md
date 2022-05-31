@@ -17,6 +17,7 @@
 
 ## ✅Demonstração da Aplicação
 <h1 align="center"> <img src="https://github.com/kevinCaldieraro/supermarketList/blob/main/.github/pc_gif.gif">
+<h1 align="center"> <img src="">
 
 ## Readme em construção 🚧
 
