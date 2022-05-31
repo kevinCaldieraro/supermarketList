@@ -15,6 +15,9 @@
 - [x] Botão apagar que exclui apenas um item da lista
 - [x] Botão limpar que apaga todos os itens da lista
 
+## ✅Demonstração da Aplicação
+<h1 align="center"> <img src="https://github.com/kevinCaldieraro/supermarketList/blob/main/.github/pc_gif.gif">
+
 ## Readme em construção 🚧
 
 
